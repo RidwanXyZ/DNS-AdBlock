@@ -1,0 +1,12 @@
+{
+  "sources": {
+    "gambling": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/gambling.txt",
+    "porn": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/porn.txt",
+    "malware": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/malware.txt",
+    "phishing": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/phishing.txt",
+    "ads": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/ads.txt",
+    "spy": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/spy.txt",
+    "tracking": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/tracking.txt",
+    "pro": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/pro.txt"
+  }
+}
